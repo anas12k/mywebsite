@@ -106,7 +106,7 @@ a:hover{
     background-color: rgb(10, 10, 10);
     color: rgba(223, 41, 41, 0.63);
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     nav{
         flex-direction: column;
         padding: 10px 0px;
